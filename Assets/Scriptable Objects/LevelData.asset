@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eebc4595d08944743a3775c9473de949, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  canBoxPrefabs:
+  - {fileID: 4175688917471766956, guid: 58b3dcb97b9a4ec44b3e44086870696a, type: 3}
+  - {fileID: 4175688917471766956, guid: a027ad319b7ab1b4fb0b468b899c9713, type: 3}
+  - {fileID: 4175688917471766956, guid: 44ba0dc28e06e8d459d2fea786be4eee, type: 3}
+  - {fileID: 4175688917471766956, guid: ec3f7ed83d917eb4ba4da049a65adc75, type: 3}
+  - {fileID: 4175688917471766956, guid: 77cac0a3ab9037c4994a569ff0e49395, type: 3}
+  - {fileID: 4175688917471766956, guid: 4bf50f04e20a6504f818bb7ac1f2460d, type: 3}
+  - {fileID: 4175688917471766956, guid: 4d37eec0bfdc2b54988e5c8e4da28dc6, type: 3}
+  - {fileID: 4175688917471766956, guid: 5f6576a86e54eb84886a2f5fecd77159, type: 3}
+  canPrefabs:
+  - {fileID: 1666936189863752929, guid: 47f4f4bfbcddc3d40ab13b880f4b1ad6, type: 3}
+  - {fileID: 1666936189863752929, guid: fbe5e43595ecee042aa66744c5bc9a2b, type: 3}
+  - {fileID: 1666936189863752929, guid: 7e1d995a085cfa740a53dd147d68e4a6, type: 3}
+  - {fileID: 1666936189863752929, guid: e182ac7ab1f268142afb73a8dd4d8f63, type: 3}
+  - {fileID: 1666936189863752929, guid: a30a075dc4d84194bb8117b6e07e25b2, type: 3}
+  - {fileID: 1666936189863752929, guid: 71585c4d2f023ab4d91a532a83f803ef, type: 3}
+  - {fileID: 1666936189863752929, guid: 267cf9589972d864b90d46f8d4b5476c, type: 3}
+  - {fileID: 1666936189863752929, guid: c187e023d3541bd4f92c646df1e333d2, type: 3}
+  levelData:
+  - amountOfColors: 2
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 4
+    numberOfCanRamp: 2
+    numberOfCanBoxRamp: 2
+  - amountOfColors: 2
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 5
+    numberOfCanRamp: 2
+    numberOfCanBoxRamp: 2
+  - amountOfColors: 2
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 6
+    numberOfCanRamp: 2
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 3
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 7
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 3
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 8
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 2
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 2
+    numberOfCanRamp: 2
+    numberOfCanBoxRamp: 2
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 8
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 9
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 9
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 10
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 14
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 18
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 3
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 5
+    numberOfCanRamp: 2
+    numberOfCanBoxRamp: 2
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 10
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 11
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 12
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 13
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 15
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 16
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 17
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 18
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 10
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 12
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 10
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 11
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 12
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 4
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 13
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 15
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 16
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 17
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 18
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 10
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 5
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 12
+    numberOfCanRamp: 3
+    numberOfCanBoxRamp: 3
+  - amountOfColors: 6
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 15
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 6
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 18
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
+  - amountOfColors: 6
+    numberOfBoxHolderToSpawn: 4
+    numberOfCanBoxToSpawn: 20
+    numberOfCanRamp: 4
+    numberOfCanBoxRamp: 4
